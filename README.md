@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I am Plamen Svetoslavov 👋
 
 <!--
 **plamensve/plamensve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
