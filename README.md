@@ -8,35 +8,6 @@ My core competencies include classifying, packaging, labeling, and documenting h
 ⭐
 My mission is to provide efficient and timely fuel delivery solutions that meet the individual needs and requirements of our customers. I strive to provide personalized service and foster long-lasting partnerships based on mutual trust and success. I am passionate about learning new things and staying updated on the latest developments and trends in the fuel industry.
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Font Awesome Icons</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-
-<h1>fa fa-linkedin-square</h1>
-
-<i class="fa fa-linkedin-square"></i>
-<i class="fa fa-linkedin-square" style="font-size:24px"></i>
-<i class="fa fa-linkedin-square" style="font-size:36px"></i>
-<i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
-<br>
-
-<p>Used on a button:</p>
-<button style="font-size:24px">Button <i class="fa fa-linkedin-square"></i></button>
-
-<p>Unicode:</p>
-<i style="font-size:24px" class="fa">&#xf08c;</i>
-
-</body>
-</html> 
-
-
-
-
 
 
 <!--
