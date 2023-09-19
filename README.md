@@ -1,6 +1,6 @@
 Hi, I am Plamen Svetoslavov 👋
 
-As an ADR Consultant and Ship Agent at GTA Petroleum, I apply my skills and knowledge in the transportation and trading of dangerous goods by road and the Danube River. I have over three years of experience in this industry, and I hold certifications in ADR and Ship Agency from recognized institutions.
+⭐As an ADR Consultant and Ship Agent at GTA Petroleum, I apply my skills and knowledge in the transportation and trading of dangerous goods by road and the Danube River. I have over three years of experience in this industry, and I hold certifications in ADR and Ship Agency from recognized institutions.
 
 ⭐
 My core competencies include classifying, packaging, labeling, and documenting hazardous materials, providing consultations and training on ADR requirements and procedures, coordinating incoming and outgoing cargo, ensuring compliance with customs and regulatory standards, and facilitating financial settlements and payments related to the activities of the ships in the port.
