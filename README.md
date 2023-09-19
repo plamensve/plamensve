@@ -9,8 +9,9 @@ My core competencies include classifying, packaging, labeling, and documenting h
 My mission is to provide efficient and timely fuel delivery solutions that meet the individual needs and requirements of our customers. I strive to provide personalized service and foster long-lasting partnerships based on mutual trust and success. I am passionate about learning new things and staying updated on the latest developments and trends in the fuel industry.
 
 <a href="https://www.linkedin.com/in/път-към-вашия-профил" target="_blank">
-  <img src="[URL-на-новата-снимка](https://svetoslavov.bg/wp-content/uploads/2023/06/Logo-Ready-Put-290623.gif)" alt="LinkedIn профил" />
+  <img src="https://www.linkedin.com/img/webpromo/btn_myprofile_white.png" width="200" height="50" alt="LinkedIn профил" />
 </a>
+
 
 
 
