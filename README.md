@@ -8,7 +8,10 @@ My core competencies include classifying, packaging, labeling, and documenting h
 ⭐
 My mission is to provide efficient and timely fuel delivery solutions that meet the individual needs and requirements of our customers. I strive to provide personalized service and foster long-lasting partnerships based on mutual trust and success. I am passionate about learning new things and staying updated on the latest developments and trends in the fuel industry.
 
-[<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="plamen-svetoslavov-฿-66659a148" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/plamen-svetoslavov-%E0%B8%BF-66659a148?trk=profile-badge">Plamen Svetoslavov ฿</a></div>](https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465)
+<a href="https://www.linkedin.com/in/път-към-вашия-профил" target="_blank">
+  <img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
 
 <!--
 **plamensve/plamensve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
