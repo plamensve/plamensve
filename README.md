@@ -8,7 +8,7 @@ My core competencies include classifying, packaging, labeling, and documenting h
 ⭐
 My mission is to provide efficient and timely fuel delivery solutions that meet the individual needs and requirements of our customers. I strive to provide personalized service and foster long-lasting partnerships based on mutual trust and success. I am passionate about learning new things and staying updated on the latest developments and trends in the fuel industry.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="plamen-svetoslavov-฿-66659a148" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/plamen-svetoslavov-%E0%B8%BF-66659a148?trk=profile-badge">Plamen Svetoslavov ฿</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 
 
