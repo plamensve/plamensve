@@ -12,6 +12,10 @@ My mission is to provide efficient and timely fuel delivery solutions that meet 
   <img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
 
+<a href="https://www.linkedin.com/in/plamen-svetoslavov-%E0%B8%BF-66659a148" target="_blank">
+  <img src="<img src="https://camo.githubusercontent.com/bc978fd30f431cf08c470583abe5b507e56f11afb5a7b86cb0a1eec99b2df644/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3030423246463f7374796c653d666c61742d737175617265266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;">" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
 
 <!--
 **plamensve/plamensve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
