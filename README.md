@@ -13,8 +13,6 @@ My mission is to provide efficient and timely fuel delivery solutions that meet 
 </a>
 
 
-
-
 <!--
 **plamensve/plamensve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
