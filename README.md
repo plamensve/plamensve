@@ -1,6 +1,6 @@
 Hi, I am Plamen Svetoslavov 👋
 
-<img src="https://camo.githubusercontent.com/4b5afe95e9d718a05c1348ad8c2100ab64a0ca4afa0c514cb177d4a8527ec481/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d757365726e616d6526636f6c6f723d677265656e" alt="Profile Views" data-canonical-src="https://komarev.com/ghpvc/?username=your-username&amp;color=green" style="max-width: 100%;">
+
 
 ⭐As an ADR Consultant and Ship Agent at GTA Petroleum, I apply my skills and knowledge in the transportation and trading of dangerous goods by road and the Danube River. I have over four years of experience in this industry, and I hold certifications in ADR and Ship Agency from recognized institutions.
 
