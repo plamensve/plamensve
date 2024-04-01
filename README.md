@@ -1,54 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 About Me:
+⭐ My mission is to provide efficient and timely fuel delivery solutions<br>that meet the individual needs and requirements of our customers.<br>I strive to provide personalized service and foster long-lasting partnerships<br>based on mutual trust and success.<br>I am passionate about learning new things and<br>staying updated on the latest developments and trends in the fuel industry.<br><br>📚 I’m currently learning Python<br>🎯 Goals: Building many apps in the industry<br>🎲 Fun fact: In 2015 I started studying C# and I gave up because I thought I didn’t have enough imagination to be a programmer.<br>In 2023 I started learning Python and I’m more motivated than ever to prove to myself that I have enough imagination to be a programmer!
 
-###
 
-<p align="left">My name is Plamen Svetoslavov and I'm a Python enthusiast from Bulgaria</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/plamen-svetoslavov-฿-66659a148) 
 
-###
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=plamensve&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=plamensve&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=plamensve&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="left">⭐ My mission is to provide efficient and timely fuel delivery solutions that meet the individual needs and requirements of our customers. I strive to provide personalized service and foster long-lasting partnerships based on mutual trust and success. I am passionate about learning new things and staying updated on the latest developments and trends in the fuel industry.</h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=plamensve&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left">📚 I'm currently learning Python<br>🎯 Goals: Building many apps in the industry<br>🎲 Fun fact: In 2015 I started studying C# and I gave up because I thought I didn't have enough imagination to be a programmer.<br>In 2023 I started learning Python and I'm more motivated than ever to prove to myself that I have enough imagination to be a programmer!</p>
+---
+[![](https://visitcount.itsvg.in/api?id=plamensve&icon=6&color=1)](https://visitcount.itsvg.in)
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">I have еxperience with:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<h2 align="left">Social networks:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/plamen-svetoslavov-%E0%B8%BF-66659a148/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/plamen.sve/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
