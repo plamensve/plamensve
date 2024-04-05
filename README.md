@@ -32,6 +32,9 @@
         return f"{user}\n" \
                f"{language}\n" \
                f"{course}"
+               
+    user_info = PlamenSvetoslavov('Plamen', 'Svetoslavov')
+    print(user_info.return_all_info())
 
 
 ## 🌐 Socials:
