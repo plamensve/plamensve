@@ -22,3 +22,31 @@
 [![](https://visitcount.itsvg.in/api?id=plamensve&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+class PlamenSvetoslavov:
+    def __init__(self, first_name: str, second_name: str):
+        self.first_name = first_name
+        self.second_name = second_name
+
+    def code_language(self):
+        return f"Python Programing Language"
+
+    def courses_information(self):
+        university = 'SoftUni'
+        beginning = 'July 2023'
+        passed_courses = {'Programming Basics': 6.00,
+                          'Programming Fundamentals': 6.00,
+                          'Python Advanced': 6.00,
+                          'Python OOP': 'In progress...'
+                          }
+
+        final_message = f"{university}-{beginning}\n"
+        final_message += f"Passed courses: {str(passed_courses)}"
+        return final_message
+
+
+user_info = PlamenSvetoslavov('Plamen', 'Svetoslavov')
+print(user_info.first_name, user_info.second_name)
+print(user_info.code_language())
+print(user_info.courses_information())
