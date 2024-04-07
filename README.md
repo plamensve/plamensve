@@ -1,42 +1,6 @@
 # 💫 About Me:
 ⭐ My mission is to provide efficient and timely fuel delivery solutions that meet the individual needs and requirements of our customers.<br>I strive to provide personalized service and foster long-lasting partnerships<br>based on mutual trust and success.<br>I am passionate about learning new things and<br>staying updated on the latest developments and trends in the fuel industry.<br><br>📚 I’m currently learning Python<br>🎯 Goals: Building many apps in the industry<br>🎲 Fun fact: In 2015 I started studying C# and I gave up because I thought I didn’t have enough imagination to be a programmer.<br>In 2023 I started learning Python and I’m more motivated than ever to prove to myself that I have enough imagination to be a programmer!
 
-
-    def __init__(self, first_name: str, second_name: str):
-        self.first_name = first_name
-        self.second_name = second_name
-
-    def user_info(self):
-        return self.first_name, self.second_name
-
-    def code_language(self):
-        return f"Python Programing Language"
-
-    def courses_information(self):
-        university = 'SoftUni'
-        beginning = 'July 2023'
-        passed_courses = {'Programming Basics': 6.00,
-                          'Programming Fundamentals': 6.00,
-                          'Python Advanced': 6.00,
-                          'Python OOP': 'In progress...'
-                          }
-
-        final_message = f"{university}-{beginning}\n"
-        final_message += f"Passed courses: {str(passed_courses)}"
-        return final_message
-
-    def return_all_info(self):
-        user = self.user_info()
-        language = self.code_language()
-        course = self.courses_information()
-        return f"{user}\n" \
-               f"{language}\n" \
-               f"{course}"
-               
-    user_info = PlamenSvetoslavov('Plamen', 'Svetoslavov')
-    print(user_info.return_all_info())
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/plamen-svetoslavov-฿-66659a148) 
 
