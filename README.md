@@ -1,15 +1,15 @@
 # 👋 Hello, world!
 
-class Developer:
-    def __init__(self, name):
-        self.name = name
-        self.skills = ["Python", "Problem Solving", "Creative Thinking", "Continuous Learning"]
-        self.mindset = "Always curious"
-        self.mission = "Build useful things. Learn something new every day."
-        self.fun_fact = (
-            "Started learning C# in 2015 and quit. "
-            "Rediscovered programming with Python in 2023 and never looked back!"
-        )
+class Developer:<br>
+    def __init__(self, name):<br>
+        self.name = name<br>
+        self.skills = ["Python", "Problem Solving", "Creative Thinking", "Continuous Learning"]<br>
+        self.mindset = "Always curious"<br>
+        self.mission = "Build useful things. Learn something new every day."<br>
+        self.fun_fact = (<br>
+            "Started learning C# in 2015 and quit. "<br>
+            "Rediscovered programming with Python in 2023 and never looked back!"<br>
+        )<br>
 
     def current_focus(self):
         return "Sharpening Python skills and contributing to cool projects."
@@ -24,9 +24,9 @@ class Developer:
         print(f"🎲 Fun fact: {self.fun_fact}")
 
 
-if __name__ == "__main__":
-    me = Developer("Plamen Svetoslavov")
-    me.introduction()
+if __name__ == "__main__":<br>
+    me = Developer("Plamen Svetoslavov")<br>
+    me.introduction()<br>
 
 
 ## 🌐 Socials:
