@@ -1,17 +1,20 @@
-# 💫 About Me:
-My mission is to provide efficient and timely ⛽️ fuel delivery solutions that meet the individual needs and requirements of our customers. I strive to offer personalized service and build long-lasting partnerships founded on mutual trust and shared success.
+👋 Hello, world!
+I'm curious and passionate about building, breaking, and rebuilding — always aiming to create meaningful digital experiences.
 
-📈 Passion
-I'm dedicated to learning and staying updated on the latest developments and trends in the fuel industry.
+🔍 What drives me
+The thrill of solving problems, the elegance of clean code, and the excitement of constant learning.
 
-🐍 Currently Learning
-Python 🐍 - constantly improving my skills to bring fresh ideas into the fuel industry.
+💻 What I do
+From backend logic to frontend magic — I enjoy exploring technologies, designing systems, and bringing ideas to life through code.
 
-🎯 Goals
-Building impactful applications in the fuel industry to streamline processes and enhance service.
+🚀 Current mission
+Leveling up in Python, sharpening my developer instincts, and contributing to projects that make an impact.
 
-🎲 Fun Fact
-In 2015, I started studying C# and gave up, thinking I didn't have the imagination to be a programmer. Fast forward to 2023 – I'm learning Python and more motivated than ever to prove to myself that I have what it takes to thrive in tech! 💪✨
+📚 Always learning
+Whether it's a new framework, an old algorithm, or just a better way to think — every day is a chance to grow.
+
+☕ Fun fact
+Started with a failed attempt at C#, came back years later with Python, and haven't looked back since.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/plamen-svetoslavov-฿-66659a148) 
 
