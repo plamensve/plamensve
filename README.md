@@ -1,4 +1,4 @@
-👋 Hello, world!
+👋 Hello, world!<br>
 I'm curious and passionate about building, breaking, and rebuilding — always aiming to create meaningful digital experiences.
 
 🔍 What drives me<br>
