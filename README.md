@@ -1,4 +1,5 @@
-👋 Hello, world!<br>
+# 👋 Hello, world!
+
 class Developer:
     def __init__(self, name):
         self.name = name
@@ -26,6 +27,7 @@ class Developer:
 if __name__ == "__main__":
     me = Developer("Plamen Svetoslavov")
     me.introduction()
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/plamen-svetoslavov-฿-66659a148) 
