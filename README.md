@@ -4,17 +4,18 @@ I'm curious and passionate about building, breaking, and rebuilding — always a
 🔍 What drives me<br>
 The thrill of solving problems, the elegance of clean code, and the excitement of constant learning.
 
-💻 What I do
+💻 What I do<br>
 From backend logic to frontend magic — I enjoy exploring technologies, designing systems, and bringing ideas to life through code.
 
-🚀 Current mission
+🚀 Current mission<br>
 Leveling up in Python, sharpening my developer instincts, and contributing to projects that make an impact.
 
-📚 Always learning
+📚 Always learning<br>
 Whether it's a new framework, an old algorithm, or just a better way to think — every day is a chance to grow.
 
-☕ Fun fact
+☕ Fun fact<br>
 Started with a failed attempt at C#, came back years later with Python, and haven't looked back since.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/plamen-svetoslavov-฿-66659a148) 
 
