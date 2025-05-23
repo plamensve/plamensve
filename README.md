@@ -1,20 +1,31 @@
 👋 Hello, world!<br>
-I'm curious and passionate about building, breaking, and rebuilding — always aiming to create meaningful digital experiences.
+class Developer:
+    def __init__(self, name):
+        self.name = name
+        self.skills = ["Python", "Problem Solving", "Creative Thinking", "Continuous Learning"]
+        self.mindset = "Always curious"
+        self.mission = "Build useful things. Learn something new every day."
+        self.fun_fact = (
+            "Started learning C# in 2015 and quit. "
+            "Rediscovered programming with Python in 2023 and never looked back!"
+        )
 
-🔍 What drives me<br>
-The thrill of solving problems, the elegance of clean code, and the excitement of constant learning.
+    def current_focus(self):
+        return "Sharpening Python skills and contributing to cool projects."
 
-💻 What I do<br>
-From backend logic to frontend magic — I enjoy exploring technologies, designing systems, and bringing ideas to life through code.
+    def introduction(self):
+        print(f"👋 Hello! I'm {self.name}")
+        print("💡 Passionate about technology, code, and meaningful solutions.")
+        print(f"🛠️ Skills: {', '.join(self.skills)}")
+        print(f"🧠 Mindset: {self.mindset}")
+        print(f"🎯 Mission: {self.mission}")
+        print(f"🚀 Currently: {self.current_focus()}")
+        print(f"🎲 Fun fact: {self.fun_fact}")
 
-🚀 Current mission<br>
-Leveling up in Python, sharpening my developer instincts, and contributing to projects that make an impact.
 
-📚 Always learning<br>
-Whether it's a new framework, an old algorithm, or just a better way to think — every day is a chance to grow.
-
-☕ Fun fact<br>
-Started with a failed attempt at C#, came back years later with Python, and haven't looked back since.
+if __name__ == "__main__":
+    me = Developer("Plamen Svetoslavov")
+    me.introduction()
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/plamen-svetoslavov-฿-66659a148) 
