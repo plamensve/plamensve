@@ -1,7 +1,7 @@
 👋 Hello, world!
 I'm curious and passionate about building, breaking, and rebuilding — always aiming to create meaningful digital experiences.
 
-🔍 What drives me
+🔍 What drives me<be>
 The thrill of solving problems, the elegance of clean code, and the excitement of constant learning.
 
 💻 What I do
