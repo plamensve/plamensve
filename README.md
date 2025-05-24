@@ -6,7 +6,7 @@ class Developer:
         self.name = name
         self.skills = ["Python", "Problem Solving", "Creative Thinking", "Continuous Learning"]
         self.mindset = "Always curious"
-        self.mission = "Build useful things. Learn something new every day."
+        self.mission = "Build myself. Learn something new every day."
         self.fun_fact = (
             "Started learning C# in 2015 and quit. "
             "Rediscovered programming with Python in 2023 and never looked back!"
