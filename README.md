@@ -16,13 +16,13 @@ class Developer:
         return "Sharpening Python skills and contributing to cool projects."
 
     def introduction(self):
-        print(f"👋 Hello! I'm {self.name}")
-        print("💡 Passionate about technology, code, and meaningful solutions.")
-        print(f"🛠️ Skills: {', '.join(self.skills)}")
-        print(f"🧠 Mindset: {self.mindset}")
-        print(f"🎯 Mission: {self.mission}")
-        print(f"🚀 Currently: {self.current_focus()}")
-        print(f"🎲 Fun fact: {self.fun_fact}")
+        print(f"Hello! I'm {self.name}")
+        print("Passionate about technology, code, and meaningful solutions.")
+        print(f"Skills: {', '.join(self.skills)}")
+        print(f"Mindset: {self.mindset}")
+        print(f"Mission: {self.mission}")
+        print(f"Currently: {self.current_focus()}")
+        print(f"Fun fact: {self.fun_fact}")
 
 
 if __name__ == "__main__":
