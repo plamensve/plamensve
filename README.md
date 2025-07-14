@@ -29,9 +29,6 @@ if __name__ == "__main__":
     me = Developer("Plamen Svetoslavov")
     me.introduction()
 ```
-
-# ✉️ Contact Me
-
 # ✉️ Contact Me
 
 <p align="left">
