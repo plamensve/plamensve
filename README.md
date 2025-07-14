@@ -31,11 +31,24 @@ if __name__ == "__main__":
 ```
 
 # ✉️ Contact Me
-![Resume](https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://plamensve.github.io/ai_cyberPunk/) 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/plamen-svetoslavov/)  
-![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B359883427273)  
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/359883427273)  
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svetoslavov.dev@gmail.com)
+
+<p align="center">
+  <a href="https://plamensve.github.io/ai_cyberPunk/">
+    <img src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="https://www.linkedin.com/in/plamen-svetoslavov/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="viber://chat?number=%2B359883427273">
+    <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white" alt="Viber"/>
+  </a>
+  <a href="https://wa.me/359883427273">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:svetoslavov.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 
 
