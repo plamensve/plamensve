@@ -32,13 +32,12 @@ if __name__ == "__main__":
 
 <p align="center">
   <img src="/mnt/data/A_digital_illustration_represents_an_artificial_ne.png" 
-       alt="AI Neural Network Heatmap" 
-       width="600" 
-       style="border-radius: 12px; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
+       alt="AI Neural Network Heatmap"
+       width="600">
 </p>
 
 <p align="center">
-  <strong>✨ Machine Learning • Neural Networks • AI Engineer ✨</strong>  
+  <strong>✨ Machine Learning • Neural Networks • AI Engineer ✨</strong>
 </p>
 
 <p align="center">
