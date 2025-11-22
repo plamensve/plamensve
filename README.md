@@ -78,3 +78,4 @@ if __name__ == "__main__":
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=plamensve)
+
