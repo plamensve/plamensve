@@ -30,15 +30,7 @@ if __name__ == "__main__":
     me.introduction()
 ```
 
-<p align="left">
-  <img src="/mnt/data/A_digital_illustration_represents_an_artificial_ne.png" 
-       alt="AI Neural Network Heatmap" 
-       width="500">
-</p>
 
-<p align="left">
-  <strong>AI Neural Network Heatmap</strong>
-</p>
 
 
 # ✉️ Contact Me
