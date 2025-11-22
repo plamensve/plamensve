@@ -40,7 +40,7 @@ if __name__ == "__main__":
 </p>
 
 
-<p><strong>Main Focus</strong></p>
+# 🤖 Main Focus
 
 <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Data%20Science-00C2CB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science"/></a>
