@@ -30,19 +30,13 @@ if __name__ == "__main__":
     me.introduction()
 ```
 
-<p align="center">
-  <img src="/mnt/data/A_digital_illustration_represents_an_artificial_ne.png" 
-       alt="AI Neural Network Heatmap"
-       width="600">
-</p>
+## 🔥 AI Neural Network Heatmap
 
-<p align="center">
-  <strong>✨ Machine Learning • Neural Networks • AI Engineer ✨</strong>
-</p>
+![AI Neural Network Heatmap](/mnt/data/A_digital_illustration_represents_an_artificial_ne.png)
 
-<p align="center">
-  <sub>Inspired by deep learning connectivity patterns and data-driven creativity.</sub>
-</p>
+✨ **Machine Learning • Neural Networks • AI Engineer** ✨
+
+_Inspired by deep learning connectivity patterns and data-driven creativity._
 
 
 # ✉️ Contact Me
