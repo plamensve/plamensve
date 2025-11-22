@@ -40,10 +40,10 @@ if __name__ == "__main__":
 </p>
 
 
-# 💻 Tech Stack:
 <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Data%20Science-00C2CB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Neural%20Networks-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks"/></a>
+# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
