@@ -77,3 +77,4 @@ if __name__ == "__main__":
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ТВОЕТО_ИМЕ)
