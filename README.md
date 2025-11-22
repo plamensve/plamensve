@@ -29,6 +29,10 @@ if __name__ == "__main__":
     me = Developer("Plamen Svetoslavov")
     me.introduction()
 ```
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=plamensve)
+
+
 # ✉️ Contact Me
 
 <p align="left">
@@ -77,6 +81,6 @@ if __name__ == "__main__":
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=plamensve)
+
 
 
