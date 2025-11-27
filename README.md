@@ -36,6 +36,7 @@ if __name__ == "__main__":
     me = Developer("Plamen Svetoslavov")
     me.introduction()
 ```
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=plamensve.myproject)
 
 
 # ✉️ Contact Me
