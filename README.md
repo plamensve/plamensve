@@ -48,11 +48,12 @@ if __name__ == "__main__":
 </p>
 
 
-# 🤖 Main Focus
+## 🤖 Main Focus
 
+![Data Science](https://img.shields.io/badge/Data_Science-00C2CB?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white)
-<a href="#"><img src="https://img.shields.io/badge/Data%20Science-00C2CB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Neural%20Networks-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks"/></a>
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
